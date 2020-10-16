@@ -11,4 +11,10 @@ public class helloGit {
 
         return "index";
     }
+
+    @RequestMapping("login.html")
+    public String login(){
+        System.out.println("111111");
+        return "login";
+    }
 }
