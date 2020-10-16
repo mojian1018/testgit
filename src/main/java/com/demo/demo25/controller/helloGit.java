@@ -17,6 +17,7 @@ public class helloGit {
         //这是dev创建的方法
         System.out.println("hello git");
         System.out.println("master");
+        System.out.println("dev");
         return "login";
     }
 }
