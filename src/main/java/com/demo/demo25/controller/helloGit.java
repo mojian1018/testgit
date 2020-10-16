@@ -21,6 +21,7 @@ public class helloGit {
         //你的代码写的不错
         System.out.println("hello github");
         System.out.println("我的线下添加的内容");
+        System.out.println("这是克隆项目编写的内容");
         return "login";
     }
 }
