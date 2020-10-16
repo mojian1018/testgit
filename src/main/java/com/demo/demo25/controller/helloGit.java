@@ -11,4 +11,10 @@ public class helloGit {
 
         return "index";
     }
+
+    @RequestMapping("login.html")
+    public String login(){
+        //这是dev创建的方法
+        return "login";
+    }
 }
